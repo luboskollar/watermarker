@@ -14,7 +14,7 @@ A simple Python GUI tool for batch-applying a watermark to images.
 
 ## Download
 
-Download the latest `.exe` from the [Releases page]([#](https://github.com/luboskollar/watermarker/releases/tag/v1.0)) - no Python installation required.
+Download the latest `.exe` from the [Releases page](https://github.com/luboskollar/watermarker/releases/tag/v1.0) - no Python installation required.
 
 ## Usage
 
